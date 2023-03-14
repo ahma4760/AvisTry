@@ -1,4 +1,4 @@
-package com.example.avistry;
+package com.example.Controller;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
